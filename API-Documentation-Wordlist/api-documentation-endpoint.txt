@@ -1,4 +1,6 @@
 /
+/api-json
+/api/api-json
 /api
 /api/
 /swagger-ui/index.js
